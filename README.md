@@ -51,3 +51,4 @@ EXAMPLE
 
 _See code: [src/commands/hello.ts](https://github.com/heroku/heroku-cli-plugin-releases/blob/v0.0.0/src/commands/hello.ts)_
 <!-- commandsstop -->
+test
